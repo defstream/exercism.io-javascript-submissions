@@ -1,0 +1,29 @@
+{
+  "name": "exercism.io-javascript-submissions",
+  "version": "1.0.0",
+  "description": "my exercism.io javascript submissions",
+  "main": "index.js",
+  "scripts": {
+    "start": "jasmine-node javascript",
+    "test": "jasmine-node javascript"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defstream/exercism.io-javascript-submissions.git"
+  },
+  "keywords": [
+    "javascript",
+    "example",
+    "code",
+    "problems"
+  ],
+  "author": "Hector Gray <hgray@incredi.co> (www.hectorgray.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defstream/exercism.io-javascript-submissions/issues"
+  },
+  "homepage": "https://github.com/defstream/exercism.io-javascript-submissions#readme",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}

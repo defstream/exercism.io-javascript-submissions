@@ -1,2 +1,13 @@
-# exercism.io-submissions
-I am currently running through the `javascript` challenges. More languages to come, next is most likely `go`. 
+# exercism.io-javascript-submissions
+This is a collection of my `javascript` exercism.io submissions.
+
+# Profile
+## http://exercism.io/defstream
+
+# Run Tests
+After cloning this repository, within it's directory run the common npm commands.
+
+```shell
+$ npm install
+$ npm test
+```
